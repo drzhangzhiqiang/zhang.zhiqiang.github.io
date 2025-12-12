@@ -23,7 +23,7 @@ repository               : "drzhangzhiqiang/zhang.zhiqiang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Mayo Clinic 20250721.png"
+  avatar           : "images/Mayo_Clinic_20250721.png"
   name             : "Zhang Zhiqiang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
